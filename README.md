@@ -1,3 +1,1 @@
-# hello-world
-learning first repo
-learning to commit changes.
+Script to build custom password list from a target website using Counter Dictionary in Python 3. Created by Mark Baggett. Putting on my githhub in my attempt to learn Python as well as how to use github.
